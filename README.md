@@ -1,2 +1,3 @@
-# python-estudos
-A modo de organizar e guardar todos os meus estudos sobre python e documentar meu avanço, criei esse repositório para me auxiliar nessa joranda
+# Curso em Vídeo - Python
+
+Repositório para armazenar e organizar meu aprendizado no curso de python feita pela equipe do Curso em Vídeo.
